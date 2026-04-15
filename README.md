@@ -1,75 +1,75 @@
-# 🌌 SR THEME v0.1 - Premium Software Landing Page
+# 🌌 SR THEME v0.1 - Premium Yazılım Tanıtım Sayfası
 
-![Banner](https://img.shields.io/badge/Vibe--Coding-Enabled-green?style=for-the-badge&logo=github)
+![Banner](https://img.shields.io/badge/Vibe--Coding-Aktif-green?style=for-the-badge&logo=github)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-> **"Built with passion, driven by the vibe."**
+> **"Tutkuyla inşa edildi, vibe ile şekillendi."**
 
-Welcome to **SR Theme**, a next-generation, high-fidelity landing page designed for premium software and gaming services. This project was developed entirely through **Vibe Coding**, focusing on extreme aesthetics, smooth animations, and a superior user experience.
-
----
-
-## ✨ Key Features
-
-- 🟢 **Cyber-Green Aesthetic**: A curated, high-tech color palette designed to impress.
-- 🧪 **Advanced Glassmorphism**: High-fidelity backdrop blurs and floating UI elements.
-- 🎮 **Niche Specific UI**: Custom-tailored components for gaming software (Valorant, etc.).
-- 💳 **Modern Checkout Flow**: Minimalist, high-conversion product modals with real-time status indicators.
-- 📱 **Fully Responsive**: Seamless experience across Desktop, Tablet, and Mobile.
-- ⚡ **Performance Optimized**: Built with React and Framer Motion for buttery smooth 60fps animations.
+**SR Theme**'e hoş geldiniz. Premium yazılım ve oyun servisleri için tasarlanmış, yüksek kaliteli ve gelecek nesil bir landing page şablonudur. Bu proje, tamamen **Vibe Coding** felsefesiyle; aşırı estetik, akıcı animasyonlar ve üst düzey kullanıcı deneyimine odaklanılarak geliştirilmiştir.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Öne Çıkan Özellikler
+
+- 🟢 **Cyber-Green Estetiği**: Göz alıcı, yüksek teknolojili ve özel olarak seçilmiş renk paleti.
+- 🧪 **Gelişmiş Glassmorphism**: Yüksek kaliteli arka plan bulanıklıkları ve yüzen UI öğeleri.
+- 🎮 **Niş Odaklı Arayüz**: Oyun yazılımları (Valorant vb.) için özel olarak tasarlanmış bileşenler.
+- 💳 **Modern Ödeme Akışı**: Gerçek zamanlı durum göstergeleri içeren minimalist ve yüksek dönüşüm odaklı ürün modalları.
+- 📱 **Tam Mobil Uyumluluk**: Masaüstü, tablet ve mobil cihazlarda kusursuz deneyim.
+- ⚡ **Performans Canavarı**: React ve Framer Motion ile inşa edilmiş, 60fps akıcılığında animasyonlar.
+
+---
+
+## 🛠 Kullanılan Teknolojiler
 
 - **Framework**: [React.js](https://reactjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
+- **Animasyonlar**: [Framer Motion](https://www.framer.com/motion/)
+- **İkonlar**: [Lucide React](https://lucide.dev/)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Hızlı Başlangıç
 
-1. **Clone the repository**:
+1. **Depoyu klonlayın**:
    ```bash
    git clone https://github.com/sely1337/sely-theme.git
    ```
 
-2. **Install dependencies**:
+2. **Bağımlılıkları yükleyin**:
    ```bash
    npm install
    ```
 
-3. **Launch the vibe**:
+3. **Vibe'ı başlatın**:
    ```bash
    npm run dev
    ```
 
 ---
 
-## 📸 Preview
+## 📸 Önizleme
 
-Check out the **Cyber-Green** product cards and the redesigned **Product Modal** for the ultimate software showcase experience.
-
----
-
-## 🧠 Developed With Vibe Coding
-
-This repository is a testament to the power of **Vibe Coding**. Every component, from the glassmorphic Navbar to the tactical 'Undetected' status tickers, was crafted by focusing on the 'vibe' of professional gaming software.
+**Cyber-Green** ürün kartlarını ve yeniden tasarlanmış **Ürün Modallarını** inceleyerek en üst düzey yazılım vitrini deneyimini keşfedin.
 
 ---
 
-## 📜 Legal
+## 🧠 Vibe Coding ile Geliştirildi
 
-Developed by **Sely**. All rights reserved.  
-*Disclaimer: This is a premium web template. Ensure compliance with all local laws and platform terms of service.*
+Bu depo, **Vibe Coding** gücünün bir kanıtıdır. Glassmorphic Navbar'dan taktiksel "Undetected" durum göstergelerine kadar her bileşen, profesyonel oyun yazılımlarının ruhuna (vibe) odaklanılarak işlenmiştir.
+
+---
+
+## 📜 Yasal Uyarı
+
+**Sely** tarafından geliştirilmiştir. Tüm hakları saklıdır.  
+*Not: Bu bir premium web şablonudur. Kullanmadan önce yerel yasalara ve platform kurallarına uyduğunuzdan emin olun.*
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Antigravity%20AI-blueviolet?style=flat-square" alt="Antigravity AI">
-  <img src="https://img.shields.io/badge/Design-Sely-green?style=flat-square" alt="Sely Design">
+  <img src="https://img.shields.io/badge/Tasarım-Sely-green?style=flat-square" alt="Sely Design">
 </p>
