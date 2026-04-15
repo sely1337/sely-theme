@@ -2,6 +2,9 @@
 
 SR Theme, modern yazılım ve oyun servisleri için geliştirilmiş, yüksek performanslı ve üst düzey görsel kaliteye sahip bir web şablonudur. Projenin her detayı, kullanıcıyı ilk saniyeden itibaren büyülemek ve profesyonel bir güven aşılamak amacıyla Vibe Coding metodolojisiyle işlenmiştir.
 
+> [!IMPORTANT]
+> **Not:** Bu proje sadece **Frontend (Arayüz)** tasarımıdır, herhangi bir Backend entegrasyonu bulunmamaktadır. Gelişmiş bir AI (Yapay Zeka) yardımıyla projenin Backend kısımlarını kolayca tamamlayabilirsiniz.
+
 ## ÖZELLİKLER
 
 - **CYBER GREEN AESTHETIC**: Sely tarafından özel olarak seçilmiş, teknoloji ve hız vurgusu yapan renk paleti.
