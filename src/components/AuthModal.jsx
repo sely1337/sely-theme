@@ -43,8 +43,8 @@ const AuthModal = ({ isOpen, onClose, initialMode = 'login' }) => {
             <div className="px-8 pb-10 flex flex-col gap-8 text-center">
                 <div className="flex flex-col items-center gap-2">
                     <div className="flex font-black text-2xl tracking-tighter italic mb-4">
-                        <span className="text-white uppercase">af</span>
-                        <span className="text-green-500 uppercase">rodit</span>
+                        <span className="text-white uppercase">se</span>
+                        <span className="text-green-500 uppercase">ly</span>
                     </div>
                     <h2 className="text-3xl font-black text-white tracking-tight text-left w-full">
                         {mode === 'login' ? 'Welcome Back' : mode === 'register' ? 'Create Account' : 'Reset Password'}
