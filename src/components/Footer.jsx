@@ -77,7 +77,7 @@ const Footer = ({ onLegalClick, onStatusClick }) => {
         {/* Separator and Copyright */}
         <div className="w-full h-[1px] bg-white/5 mb-12"></div>
         <div className="text-center text-zinc-600 text-[14px] font-medium">
-          <p>© 2025 - All rights reserved, Developed by <span className="text-zinc-500">Sely</span></p>
+          <p>© 2026 - All rights reserved, Developed by <span className="text-zinc-500">Sely</span></p>
         </div>
       </div>
     </footer>

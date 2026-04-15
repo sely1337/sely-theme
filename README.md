@@ -34,4 +34,4 @@ SR Theme, modern yazılım ve oyun servisleri için geliştirilmiş, yüksek per
 **VIBE CODING**
 Bu proje, standart kodlama pratiklerinin ötesine geçilerek tamamen estetik "vibe" ve kullanıcı hissiyatı üzerine kurgulanmıştır. 
 
-© 2025 - **Sely** tarafından geliştirilmiştir. Tüm hakları saklıdır.
+© 2026 - **Sely** tarafından geliştirilmiştir. Tüm hakları saklıdır.
