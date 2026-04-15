@@ -29,7 +29,7 @@ const Features = () => {
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                className="p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left h-[450px] relative overflow-hidden group"
+                className="p-8 md:p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left min-h-[400px] md:h-[450px] relative overflow-hidden group"
             >
                 <div>
                    <h3 className="text-2xl font-black text-white mb-2">Binance Gift Card</h3>
@@ -68,7 +68,7 @@ const Features = () => {
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.1 }}
-                className="p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left h-[450px] relative overflow-hidden group"
+                className="p-8 md:p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left min-h-[400px] md:h-[450px] relative overflow-hidden group"
             >
                 <div>
                    <h3 className="text-2xl font-black text-white mb-2">Secure Payment</h3>
@@ -91,7 +91,7 @@ const Features = () => {
         {/* Row 2: Smaller Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Bitcoin Card */}
-            <motion.div className="p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left h-[400px] relative overflow-hidden group">
+            <motion.div className="p-8 md:p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left min-h-[350px] md:h-[400px] relative overflow-hidden group">
                 <h3 className="text-xl font-black text-white mb-2">Payment With Bitcoin</h3>
                 <p className="text-zinc-500 text-[14px]">In the payment section, to multiple Bitcoin addresses.</p>
                 <div className="absolute bottom-0 left-0 w-full h-1/2 flex items-center justify-center">
@@ -115,7 +115,7 @@ const Features = () => {
             </motion.div>
 
             {/* Global Market Card */}
-            <motion.div className="p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left h-[400px] relative overflow-hidden group">
+            <motion.div className="p-8 md:p-10 rounded-[40px] bg-[#050505] border border-white/5 text-left min-h-[350px] md:h-[400px] relative overflow-hidden group">
                 <h3 className="text-xl font-black text-white mb-2">Global Market Access</h3>
                 <p className="text-zinc-500 text-[14px]">You can shop anywhere in the world with all cards.</p>
                 <div className="absolute bottom-0 right-0 w-full h-1/2 flex items-center justify-center pointer-events-none">
@@ -148,7 +148,7 @@ const Features = () => {
             </motion.div>
 
             {/* Fast Delivery Card */}
-            <motion.div className="p-10 rounded-[40px] bg-gradient-to-br from-green-950/40 via-zinc-950 to-black border border-white/10 text-center h-[400px] relative overflow-hidden group shadow-[inset_0_0_60px_rgba(34,197,94,0.1)]">
+            <motion.div className="p-8 md:p-10 rounded-[40px] bg-gradient-to-br from-green-950/40 via-zinc-950 to-black border border-white/10 text-center min-h-[350px] md:h-[400px] relative overflow-hidden group shadow-[inset_0_0_60px_rgba(34,197,94,0.1)]">
                 <h3 className="text-xl font-black text-white mb-2">Fast Delivery</h3>
                 <p className="text-zinc-500 text-[14px]">Once payment is complete, the product will be delivered to you as soon as possible.</p>
                 

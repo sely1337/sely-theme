@@ -19,7 +19,7 @@ const ProductsPromo = ({ onProductClick }) => {
             viewport={{ once: true }}
             transition={{ delay: index * 0.1 }}
             onClick={() => onProductClick?.(product)}
-            className="group relative aspect-square bg-[#050505] border border-white/5 rounded-[40px] p-6 cursor-pointer overflow-hidden flex flex-col items-center justify-center gap-8 hover:border-green-500/30 transition-all duration-500"
+            className="group relative h-[380px] md:h-auto md:aspect-square bg-[#050505] border border-white/5 rounded-[40px] p-4 md:p-6 cursor-pointer overflow-hidden flex flex-col items-center justify-center gap-6 md:gap-8 hover:border-green-500/30 transition-all duration-500"
           >
             {/* Gradient Background */}
             <div className="absolute inset-2 rounded-[32px] bg-gradient-to-br from-green-950/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
